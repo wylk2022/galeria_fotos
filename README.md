@@ -1,2 +1,0 @@
-# galeria_fotos
-Teste
